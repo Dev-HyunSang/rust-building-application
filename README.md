@@ -1,4 +1,5 @@
 # rust-building-application
+[Rust : 실제 애플리케이션 구축을 통한 Rust 완벽 정복](https://kmooc.udemy.com/course/rust-building-application)를 통해서 공부하고 있습니다.
 
 ## Table of Contents
 - [rust-building-application](#rust-building-application)
